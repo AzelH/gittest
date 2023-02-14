@@ -9,5 +9,6 @@ public class User {
         System.out.println("hot-fix-->no3");
         System.out.println("merge111");
         System.out.println("push-test");
+        System.out.println("pull-test");
     }
 }
